@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Wellcome&fontSize=50" />
 
 <h3 align="center"><b>🪅Tech Stack🪅</b></h3>
 </br>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
 <!--
 **hwwwon/hwwwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
