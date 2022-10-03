@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&&color=timeAuto&height=180&section=header&text=Wellcome%20hwwwon's%20Github%20😃&fontSize=50&stroke=222222&fontColor=FFFFFF&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=timeAuto&height=180&section=header&text=Wellcome%20hwwwon's%20Github%20😃&fontSize=45&stroke=222222&fontColor=FFFFFF&strokeWidth=2" />
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwwwon&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwwwon&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuroop2&layout=compact&theme=tokyonight)
 
 
-<h3><b>🪅Tech Stack🪅</b></h3>
+<h3><b>🪅Tech Stack</b></h3>
 <p>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
 
-<h3><b>🌅Tools🌅</b></h3>
+<h3><b>🌅Tools</b></h3>
 <p>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h3><b>📩Contacts📩</b></h3>
-
+<h3><b>📩Contacts</b></h3>
+<a href="mailto:hwwwon1027@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwwwon1027@gmail.com"/></a>
 
 <!--
 **hwwwon/hwwwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-[Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kimsh1691@gmail.com)
+
 
 -->
