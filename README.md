@@ -2,7 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwwwon&show_icons=true&theme=radical&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuroop2&layout=compact&theme=radical&card_width=300)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwwwon&layout=compact&theme=radical&card_width=300)
 
 
 <h3><b>⚒️Tech Stack</b></h3>
