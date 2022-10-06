@@ -14,9 +14,10 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
+<p>I used it at least once</p>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 <h3><b>🌅Tools</b></h3>
 <p>
@@ -27,7 +28,7 @@
 </p>
 
 <h3><b>📩Contact</b></h3>
-<a href="mailto:hwwwon1027@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwwwon1027@gmail.com"/></a>
+<a href="mailto:hwwwon1027@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwwwon1027@gmail.com"/><p>hwwwon1027@gmail.com</p></a>
 
 </br></br>
 
