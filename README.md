@@ -27,9 +27,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h3><b>📩Contact</b></h3>
-<a href="mailto:hwwwon1027@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwwwon1027@gmail.com"/><p>hwwwon1027@gmail.com</p></a>
-
 </br></br>
 
 <!--
