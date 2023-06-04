@@ -1,11 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=timeAuto&height=180&section=header&text=Welcome%20😃&fontSize=45&stroke=222222&fontColor=FFFFFF&strokeWidth=2" />
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwwwon&show_icons=true&theme=radical&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwwwon&layout=compact&theme=radical&card_width=300)
-
-
-<h3><b>⚒️Tech Stack</b></h3>
 <p>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -16,10 +9,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
-<p>I used it at least once</p>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-<h3><b>🌅Tools</b></h3>
 <p>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
